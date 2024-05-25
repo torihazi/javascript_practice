@@ -1,0 +1,16 @@
+{
+  "name": "javascript_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "9.0"
+  },
+  "type": "module"
+}
